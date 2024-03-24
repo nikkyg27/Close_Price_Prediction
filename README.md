@@ -1,2 +1,2 @@
 # Close_Price_Prediction
-## stacked LSTM Model  ## RNN ## Python ## Tensorflow
+## stacked LSTM Model , RNN , Python , Tensorflow
